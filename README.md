@@ -29,5 +29,3 @@ The results of the network reconstruction are presented in the form of graphs an
 Future work will involve applying the ARACNE method to real gene expression data to further evaluate its performance. Additionally, the impact of various parameters on the performance of the ARACNE method will be explored.
 
 ---
-
-这个README文档提供了对项目的基本概述，包括所采取的步骤、使用的代码、得到的结果以及未来的工作计划。你可以根据你的具体需求来修改这个草案。
